@@ -6,7 +6,7 @@ date: 2021-06-28
 
 Imagine you're a small spacecraft. You don't have a mission and don't have a goal, unless you decide on one for yourself.
 
-You have an immeasurable amout of fuel, and capable of travelling at extremely fast speeds, but never exceeding that of light.
+# You have an immeasurable amout of fuel, and capable of travelling at extremely fast speeds, but never exceeding that of light.
 
 And you're in a universe whose fabric is expanding at, say, x% per year, meaning that things that were a kilometer away this year is going to be (1+x%) kilometers away next year, not because they moved, but because the space underneath them has stretched.
 
